@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/7Jr1vj3/XbpyT4X9lHE8UEwr634Jr0Adl+U5Oyt2pqMuWo+V8cJW5L2HW6SZgEoTbL0xqqv1K6oSAgfZIXvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User2\\RiderProjects\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\User2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
